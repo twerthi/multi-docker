@@ -17,4 +17,4 @@ after_success:
   - docker push twerthi/multi-client
   - docker push twerthi/multi-nginx
   - docker push twerthi/multi-server
-  - docker push twerthi/mutli-worker
+  - docker push twerthi/multi-worker
