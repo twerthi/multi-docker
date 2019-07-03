@@ -24,7 +24,7 @@ deploy:
   region: use-west-2
   app: multi-docker
   env: MultiDocker-env
-  bucket_name: shawnsesna
+  bucket_name: elasticbeanstalk-us-west-2-392069123042
   bucket_path: docker-multi
   on:
     branch: master
